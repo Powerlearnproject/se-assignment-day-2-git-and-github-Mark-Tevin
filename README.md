@@ -117,5 +117,10 @@ Forking is useful when working on contributions to external repos, while cloning
 
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
+Issues are used to track bugs, enhancements, or tasks. They allow developers to discuss problems and improvements in an organize manner. Each issue can be assigned a priority, a label and a milestone
+
+Project boards on the other hand provide a visual representation of the projects workflow. They can be used to track the progress of tasks and organize work into columns
+
+Both tools improve collaboration by providing clear documentation of tasks and bugs  facilitating communication and tracking tasks.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
