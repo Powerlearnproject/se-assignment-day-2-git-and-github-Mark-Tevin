@@ -124,3 +124,13 @@ Project boards on the other hand provide a visual representation of the projects
 Both tools improve collaboration by providing clear documentation of tasks and bugs  facilitating communication and tracking tasks.
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
+Challenges:
+* Merge conflicts: These occur when two branches modofy the same part of a file. It can be resolved by manually selecting the correct changes.
+
+* Commit frequency: Committing too infrequently makes it harder to track changes, while committing too often may clutter the projects history
+
+Best practices:
+- Use branching effectively to seperate features and fixes
+- Regularly pull from the main branch to avoid merge conflicts
+- Conduct code reviews through pull requests to maintain code quality
+- Commit often, but with meaningful messages to make tracking easier
