@@ -7,6 +7,14 @@ Version control is a system that is meant to track chnages to files over time an
 Github is popular because it is built around git, a distributed version control system. Github provides a user0friendly interface for git allowing developers to; collaborate easily on projects, review and merge code changes, Host projects in the cloud and use features like issues and project pull requests.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+To set a new repository on Github, simply do the following:
+  1. Sign in to Github and click the "New" button to create a repository
+  2. Name the repository ("learning-git-on-plp")
+  3. Choose whether the repository will be public(means its going to be visible to everyone) or private
+  4. Optionally, add a README file , which describes the project
+  5. Select a .gitignore template to exclude unnecessary fileschoose a lincense if applicable, defining how others can use your code
+
+It is vital to decide on whether the repository will be private or public , nd whether to include a license for code share and use.
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
