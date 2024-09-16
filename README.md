@@ -106,6 +106,15 @@ To create a pull request:
 4. Once approved ,the public repo cane be merged into the main branch
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
+Forking a repo creates a personal copy of someone else's repository, allowing one to make changes without affecting the original projects.
+
+It's useful when:
+- one wants to contribute to open -source projects
+- when in need of a personal version of a project to customize or experiment with.
+
+On the other hand, cloning creates a local copy of a repository that one can work on but does not create a new version under your Githib account.
+Forking is useful when working on contributions to external repos, while cloning is better for working on local copies of your projects
+
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
 
