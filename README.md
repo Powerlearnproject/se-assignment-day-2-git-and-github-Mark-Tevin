@@ -82,6 +82,15 @@ A commit is a snapshot of a project at a given time, recording all changes made 
 Commits help track chnages and maintain a clear history of the project, making it easier to revert to previous states if necessary.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
+Branch allows one to create a seperate line of development for a specific feature or bug fix. The main benefit is that changes can be made without affecting the main project until the branch is merged.
+
+The process of using branches includes:
+  1. Create a branch using git checkout -b new-feature
+  2. work on the feature in the branch
+  3. Merge the branch back into the main branch (master or main) using git merge new-feature
+  4. Optionally, delete the branch with git branch -d new-feature
+
+Branches allow multiple people to work on different features simultaneously and prevent conflicts in the codebase.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
 
