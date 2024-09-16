@@ -93,6 +93,17 @@ The process of using branches includes:
 Branches allow multiple people to work on different features simultaneously and prevent conflicts in the codebase.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
+A pull request is a request to merge changes from one branch into another.
+They facilitate collaboration by allowing team members to either;
+  - Review code for quality and consistency
+  - Ensures the main project branch remains stable
+  - Discuss potential improvements and fixes
+
+To create a pull request:
+1. Push your code chnages to a abranch on Github
+2. Go to the repository and click "New Pull Request"
+3. Describe the changes made and submit the PR for review
+4. Once approved ,the public repo cane be merged into the main branch
 
 ## Discuss the concept of "forking" a repository on GitHub. How does forking differ from cloning, and what are some scenarios where forking would be particularly useful?
 
