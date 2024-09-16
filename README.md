@@ -73,6 +73,13 @@ Less visibility: Because the code is private, there’s no opportunity for exter
 Closed development: Private repositories may discourage open collaboration or knowledge sharing, especially for projects that could benefit from community input or contributions.
 
 ## Detail the steps involved in making your first commit to a GitHub repository. What are commits, and how do they help in tracking changes and managing different versions of your project?
+A commit is a snapshot of a project at a given time, recording all changes made to files. In order to perform the first commit:
+ 1. Initialize a Git repo with "git init".
+ 2. Add files to the staging area using git "add ."
+ 3. Create a commit with a message using git commit -m "message"
+ 4. Push the commit to GitHub using git push
+
+Commits help track chnages and maintain a clear history of the project, making it easier to revert to previous states if necessary.
 
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
